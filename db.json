@@ -1,0 +1,100 @@
+{
+  "seller": [],
+  "products": [
+    {
+      "name": "Unicorn ",
+      "price": "150000",
+      "category": "Bike",
+      "color": "BLACK",
+      "description": "Mond Suspension",
+      "image": "https://blog.gaadikey.com/wp-content/uploads/2014/12/Honda-Unicorn-150-cc-bike.jpg",
+      "id": 1
+    },
+    {
+      "name": "HP Laptop",
+      "price": "78451",
+      "category": "Laptop",
+      "color": "black",
+      "description": "Hp Professionals",
+      "image": "https://www.91-cdn.com/hub/wp-content/uploads/2022/07/Top-laptop-brands-in-India.jpg",
+      "id": 3
+    },
+    {
+      "name": "iphone",
+      "price": "100000",
+      "category": "premium",
+      "color": "Purple",
+      "description": "Safe phones",
+      "image": "https://cdn.macstories.net/purple-phones-1618958972858.png",
+      "id": 4
+    },
+    {
+      "name": "Jacket",
+      "price": "1579",
+      "category": "Medium",
+      "color": "red",
+      "description": "Woolean",
+      "image": "https://tse4.mm.bing.net/th?id=OIP.QCZlj25I1XcOXCp7DHPrEQHaJo&pid=Api&P=0&h=180",
+      "id": 5
+    },
+    {
+      "name": "Pillow",
+      "price": "499",
+      "category": "Medium",
+      "color": "red",
+      "description": "Woolean",
+      "image": "https://i.pinimg.com/originals/b1/1a/6c/b11a6cae4239d12129cf5cdb104ab195.jpg",
+      "id": 6
+    },
+    {
+      "name": "Bag",
+      "price": "1999",
+      "category": "Premium",
+      "color": "Black",
+      "description": "Hp Laptop Bags",
+      "image": "https://in-media.apjonlinecdn.com/catalog/product/cache/b3b166914d87ce343d4dc5ec5117b502/h/p/hp_education_front.jpg",
+      "id": 7
+    },
+    {
+      "name": "Oppo A53",
+      "price": "49999",
+      "category": "Premium",
+      "color": "Multicolor",
+      "description": "Real Camera",
+      "image": "https://tse2.mm.bing.net/th?id=OIP.R025Uubva2NaKUm3Q6hqDgHaE7&pid=Api&P=0&h=180",
+      "id": 8
+    },
+    {
+      "name": "Sofa",
+      "price": "49999",
+      "category": "Premium",
+      "color": "Multicolor",
+      "description": "Rest controll",
+      "image": "https://tse1.mm.bing.net/th?id=OIP.5FuDP6ccXe4hT4uIB1oNVwHaHa&pid=Api&P=0&h=180",
+      "id": 9
+    }
+  ],
+  "users": [
+    {
+      "name": "shubham pandit",
+      "email": "shubham11@gmail.com",
+      "password": "Ahubhm@112",
+      "id": 1
+    }
+  ],
+  "cart": [
+    {
+      "name": "Unicorn ",
+      "price": "150000",
+      "category": "Bike",
+      "color": "BLACK",
+      "description": "Mond Suspension",
+      "image": "https://blog.gaadikey.com/wp-content/uploads/2014/12/Honda-Unicorn-150-cc-bike.jpg",
+      "quantity": 1,
+      "productId": 1,
+      "userId": 1,
+      "id": 1
+    }
+  ],
+  "orders": []
+}
